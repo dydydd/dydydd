@@ -8,7 +8,6 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on [LinPlayer](https://github.com/dydydd/LinPlayer)
 - 🌱 I'm passionate about building elegant software solutions
 - 💬 Ask me about web development, mobile apps, and software architecture
 - 📫 How to reach me: Check out my repositories!
