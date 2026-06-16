@@ -37,21 +37,9 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dydydd&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ## 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dydydd&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 💡 Featured Projects
-
-[![LinPlayer](https://github-readme-stats.vercel.app/api/pin/?username=dydydd&repo=LinPlayer&theme=tokyonight&hide_border=true)](https://github.com/dydydd/LinPlayer)
 
 ---
 
